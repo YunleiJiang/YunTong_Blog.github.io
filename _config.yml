@@ -1,5 +1,5 @@
 # Site settings
-title: Project Pages
+title: Homepage of Yunlei Jiang & Yutong Dai
 description: "A family of engineer, programmer and futurists"
 url: "https://yunleijiang.github.io/YunTong_Blog.github.io/"
 
@@ -9,7 +9,7 @@ url: "https://yunleijiang.github.io/YunTong_Blog.github.io/"
 # Secondary Parameters
 baseurl: "/project-pages"
 header-img: img/home-bg.jpg
-headercolor: "#FFFFFF"
+headercolor: "#FFFFFC"
 logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
